@@ -10,3 +10,4 @@ print(no_of_buses)
 f=14
 c=(f-32)/1.8
 print(c)
+
